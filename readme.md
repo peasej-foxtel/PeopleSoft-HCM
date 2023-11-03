@@ -1,3 +1,3 @@
 #Demo
 
-PSoft HCM
+PeopleSoft HCM
